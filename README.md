@@ -10,28 +10,12 @@ Gerekli dosyalar:
 ## EUCodeWeek2021 - 02
 Bu etkinliğimizde https://appinventor.mit.edu/ kullanılarak bir bilmece soran robot oluşturulmuştur.
 Yapılacak İşlemler:
-- Screen (Ekran) özellikleri değiştirilecektir.
-- Label (Etiket) özellikleri değiştirilecektir.
-- Button (Düğme) lerin özellikleri değiştirilecektir.
-- Text Box (Metin Kutusu) özellikleri değiştirilecektir.
-- İsimlendirmeler yapılacaktır.
-- İsimlendirmelere ve nesnelere dikkat edilerek blok yapısı oluşturulacaktır.
+- Tek tek nesneler tasarım ekranına eklenecek ve isimlendirmeler yapılacaktır. (EUCW02_00-Tasarım.PNG)
+- Screen (Ekran) özellikleri değiştirilecektir. (EUCW02_01-Screen Properties 01.PNG)(EUCW02_01-Screen Properties 02.PNG)
+- Label (Etiket) özellikleri değiştirilecektir. (EUCW02_03-Label Properties 01.PNG)
+- Button (Düğme) lerin özellikleri değiştirilecektir. (EUCW02_02-Button Properties 01.PNG)(EUCW02_05-Button2 Properties 01.PNG)
+- Text Box (Metin Kutularının) özellikleri değiştirilecektir. (EUCW02_04-Text Box Properties 01.PNG)(EUCW02_06-Text Box2 Properties 01.PNG)
+- İsimlendirmelere ve nesnelere dikkat edilerek blok yapısı oluşturulacaktır. (EUCW02_07 - Blok Yapısı.PNG)
 - Telefonunuza https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=tr&gl=US indirdikten sonra aicompanion ile uygulamanızı çalıştırabilirsiniz.
 
 ![EUCW02_00-Tasarım](EUCW02_00-Tasarım.PNG)
-
-![EUCW02_01-Screen Properties 01](EUCW02_01-Screen Properties 01.PNG)
-
-![EUCW02_01-Screen Properties 02](EUCW02_01-Screen Properties 02.PNG)
-
-![EUCW02_02-Button Properties 01](EUCW02_02-Button Properties 01.PNG)
-
-![EUCW02_03-Label Properties 01.PNG](EUCW02_03-Label Properties 01.PNG)
-
-![EUCW02_04-Text Box Properties 01](EUCW02_04-Text Box Properties 01.PNG)
-
-![EUCW02_05-Button2 Properties 01](EUCW02_05-Button2 Properties 01.PNG)
-
-![EUCW02_06-Text Box2 Properties 01](EUCW02_06-Text Box2 Properties 01.PNG)
-
-![EUCW02_07 - Blok Yapısı.PNG](EUCW02_07 - Blok Yapısı.PNG)
