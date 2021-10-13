@@ -17,3 +17,5 @@ Yapılacak İşlemler:
 - İsimlendirmeler yapılacaktır.
 - İsimlendirmelere ve nesnelere dikkat edilerek blok yapısı oluşturulacaktır.
 - Telefonunuza https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=tr&gl=US indirdikten sonra aicompanion ile uygulamanızı çalıştırabilirsiniz.
+
+![EUCW02_00-Tasarım](EUCW02_00-Tasarım.PNG)
