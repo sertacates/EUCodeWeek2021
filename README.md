@@ -19,3 +19,11 @@ Yapılacak İşlemler:
 - Telefonunuza https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=tr&gl=US indirdikten sonra aicompanion ile uygulamanızı çalıştırabilirsiniz.
 
 ![EUCW02_00-Tasarım](EUCW02_00-Tasarım.PNG)
+![EUCW02_01-Screen Properties 01](EUCW02_01-Screen Properties 01.PNG)
+![EUCW02_01-Screen Properties 02](EUCW02_01-Screen Properties 02.PNG)
+![EUCW02_02-Button Properties 01](EUCW02_02-Button Properties 01.PNG)
+![EUCW02_03-Label Properties 01.PNG](EUCW02_03-Label Properties 01.PNG)
+![EUCW02_04-Text Box Properties 01](EUCW02_04-Text Box Properties 01.PNG)
+![EUCW02_05-Button2 Properties 01](EUCW02_05-Button2 Properties 01.PNG)
+![EUCW02_06-Text Box2 Properties 01](EUCW02_06-Text Box2 Properties 01.PNG)
+![EUCW02_07 - Blok Yapısı.PNG](EUCW02_07 - Blok Yapısı.PNG)
