@@ -31,6 +31,8 @@ Gerekli dosyalar:
 - EUCW03_codeweek2021.py
 
 Örnek Girdi ve Çıktılar:
+
+
 ![EUCW03_Örnek Çıktı](EUCW03sayiTahminOyunuOrnekCikti_IkiliArama.JPG)
 
 Etkinlik bağlantısı: https://codeweek.eu/view/388730/aklindaki-sayiyi-tahmin-edeyim-mi
@@ -41,6 +43,8 @@ Gerekli dosyalar:
 - EUCW04_engellilerIcinKapiZili.ino
 
 Örnek Bağlantı Devresi:
+
+
 ![EUCW04_Devre Şeması](EUCW04_Arduino_EngelliKapiZili_DevreSemasi.JPG)
 
 Etkinlik bağlantısı: https://codeweek.eu/view/388730/aklindaki-sayiyi-tahmin-edeyim-mi
