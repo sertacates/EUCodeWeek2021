@@ -6,6 +6,7 @@ Bu etkinliğimizde Python programlama dilinde tkinter kütüphanesindeki Grafik 
 Gerekli dosyalar:
 - EUCW01_bilmeceSoranSohbetRobotu.py
 - EUCW01_etkisizKelimeler.txt
+
 Etkinlik bağlantısı: https://codeweek.eu/view/388625/bilmece-soran-sohbet-robotu
 
 ## EUCodeWeek2021 - 02
@@ -18,6 +19,7 @@ Yapılacak İşlemler:
 - Text Box (Metin Kutularının) özellikleri değiştirilecektir. (EUCW02_04-Text Box Properties 01.PNG)(EUCW02_06-Text Box2 Properties 01.PNG)
 - İsimlendirmelere ve nesnelere dikkat edilerek blok yapısı oluşturulacaktır. (EUCW02_07 - Blok Yapısı.PNG)
 - Telefonunuza https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=tr&gl=US indirdikten sonra aicompanion ile uygulamanızı çalıştırabilirsiniz.
+
 Etkinlik bağlantısı: https://codeweek.eu/view/388670/bilmece-soran-mobil-uygulama
 
 ![EUCW02_00-Tasarım](EUCW02_00-Tasarım.PNG)
