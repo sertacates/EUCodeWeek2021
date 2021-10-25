@@ -22,12 +22,14 @@ Yapılacak İşlemler:
 
 Etkinlik bağlantısı: https://codeweek.eu/view/388670/bilmece-soran-mobil-uygulama
 
+
 ![EUCW02_00-Tasarım](EUCW02_00-Tasarım.PNG)
 
 ## EUCodeWeek2021 - 03
 Bu etkinliğimizde Python programlama dilinde İkili Arama Algoritması kullanılarak bir Sayı Tahmin Oyunu hazırlanmıştır.
 Gerekli dosyalar:
 - EUCW03_codeweek2021.py
+
 Örnek Girdi ve Çıktılar:
 ![EUCW03_Örnek Çıktı](EUCW03sayiTahminOyunuOrnekCikti_IkiliArama.JPG)
 
@@ -37,6 +39,7 @@ Etkinlik bağlantısı: https://codeweek.eu/view/388730/aklindaki-sayiyi-tahmin-
 Bu etkinliğimizde TinkerCAD Circuits'ta buzzer ve led kullanılarak c++ ile kodladığımız bir arduino devresi hazırladık. Duymakta zorlananlar için LED ve görmekte zorlananlar için BUZZER ile engelli ailelerin kapı zillerini Arduino tabanlı sistemimiz ile geliştirdik.
 Gerekli dosyalar:
 - EUCW04_engellilerIcinKapiZili.ino
+
 Örnek Bağlantı Devresi:
 ![EUCW04_Devre Şeması](EUCW04_Arduino_EngelliKapiZili_DevreSemasi.JPG)
 
