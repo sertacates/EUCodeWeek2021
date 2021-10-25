@@ -50,3 +50,6 @@ Gerekli dosyalar:
 ![EUCW04_Devre Şeması](EUCW04_Arduino_EngelliKapiZili_DevreSemasi.JPG)
 
 Etkinlik bağlantısı: https://codeweek.eu/view/388771/ilk-arduino-devrem-engelli-zili
+
+![Avrupa Kodlama Haftası Sertifikası - EU Code Week 2021](CodeWeek2021.JPG)
+
