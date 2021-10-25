@@ -1,3 +1,4 @@
+#Kullanıcının istenilen girdileri doğru veri tipinde gireceği varsayılmıştır.
 print(*"Sayı Tahmin Oyunu")
 alt = int(input("Tahmin oyunu için alt sınır:"))
 ust = int(input("Tahmin oyunu için üst sınır:"))
